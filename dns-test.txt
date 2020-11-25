@@ -1,1 +1,4 @@
 baddns.intra.sh
+dehashed.com
+wieistmeineip.ch
+www.wieistmeineip.ch
